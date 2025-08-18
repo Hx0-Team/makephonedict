@@ -2,7 +2,7 @@
 
 **工具简介：** 可以根据用户需求定制化生成各大运营商和指定区域的手机号字典，并导出为CSV文件。
 
-**使用方法：** pyhton3 makepythondict.py
+**使用方法：** python3 makepythondict.py
 
 
 <img width="963" alt="image" src="https://github.com/asaotomo/makephonedict/assets/67818638/9295a56a-ba85-43ce-8e59-23377574a358">
